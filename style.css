@@ -12,7 +12,7 @@ body {
   position: relative;
   justify-content: space-between;
   align-items: center;
-  background-color: #333;
+  background-color: rgb(8, 8, 58);
   color: white;
 }
 
@@ -43,7 +43,7 @@ body {
 }
 
 .navbar-links li:hover {
-  background-color: #555;
+  background-color: rgb(48, 43, 71);
 }
 
 .toggle-button {
